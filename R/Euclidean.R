@@ -2,10 +2,10 @@
 
 #' Euclidean Function
 #'
-#'  First algoritm to implement is the Euclidian algorithm to nd the greatest common divisor of two numbers. The description of the algorithm with pseudocode can be found here https://en.wikipedia.org/wiki/Euclidean algorithm. Assert that the arguments are numeric scalars or integers.
 #'
 #'
-#' @param x,y
+#' @describeIn First algoritm to implement is the Euclidian algorithm to nd the greatest common divisor of two numbers. The description of the algorithm with pseudocode can be found here https://en.wikipedia.org/wiki/Euclidean algorithm. Assert that the arguments are numeric scalars or integers.
+#' @param x,y respectively numerical values
 #'
 #' @return the greatest common divisor of two numbers
 #' @export
