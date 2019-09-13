@@ -5,5 +5,5 @@ Version: 0.1.0
 Author: Ismail Khalil 
 Maintainer: <ismailkhalil@gmail.com>
 Description:The first algoritm to implement is the Euclidian algorithm to find the greatest common divisor of two numbers.
-License: What Liscence 
+License: MIT Liscence 
 RoxygenNote: 6.1.1
