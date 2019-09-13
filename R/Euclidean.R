@@ -1,5 +1,15 @@
   # 1.1.1 euclidean()
 
+#' Eucledean
+#'
+#' @param x
+#' @param y
+#'
+#' @return the greatest common divisor of two numbers
+#' @export
+#'
+#' @example
+#' seuclidean(123612, 13892347912) = 4
 euclidean <- function(x,y){
 
   stopifnot(is.numeric(x)|is.numeric(y))
